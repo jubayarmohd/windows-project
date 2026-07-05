@@ -1,0 +1,5 @@
+p 
+b strong 
+i em 
+br 
+hr 
